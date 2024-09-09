@@ -2,7 +2,8 @@
 
 Este proyecto es una aplicación de inicio de sesión simple desarrollada con Flutter. Permite que los usuarios ingresen un nombre de usuario y una contraseña y, si las credenciales son correctas, redirige a una pantalla de bienvenida.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d2611f6f-3301-4c39-a3e9-1bf8a4381f45)
+
 
 
 ## Características
