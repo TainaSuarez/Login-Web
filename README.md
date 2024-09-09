@@ -2,7 +2,8 @@
 
 Este proyecto es una aplicación de inicio de sesión simple desarrollada con Flutter. Permite que los usuarios ingresen un nombre de usuario y una contraseña y, si las credenciales son correctas, redirige a una pantalla de bienvenida.
 
-![image](https://github.com/user-attachments/assets/27828925-862c-439f-8b49-5dfb6617bcf8)
+![Uploading image.png…]()
+
 
 ## Características
 
@@ -25,7 +26,7 @@ Este proyecto es una aplicación de inicio de sesión simple desarrollada con Fl
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/usuario/tarefa_login.git
+   git clone https://github.com/TainaSuarez/Login-Web
    ```
 
 2. Ejecuta la aplicación en un emulador o dispositivo conectado:
